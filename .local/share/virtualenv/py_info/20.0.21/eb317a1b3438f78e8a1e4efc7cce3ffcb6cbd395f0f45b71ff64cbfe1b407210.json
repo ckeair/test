@@ -1,0 +1,67 @@
+{
+  "content": {
+    "base_exec_prefix": "/usr/local", 
+    "system_stdlib": "/usr/local/lib/python3.7", 
+    "sysconfig": {
+      "makefile_filename": "/usr/local/lib/python3.7/config-3.7m-x86_64-linux-gnu/Makefile"
+    }, 
+    "prefix": "/home/ec2-user/eb-virt", 
+    "stdout_encoding": "UTF-8", 
+    "executable": "/home/ec2-user/eb-virt/bin/python3", 
+    "implementation": "CPython", 
+    "exec_prefix": "/home/ec2-user/eb-virt", 
+    "platform": "linux", 
+    "version": "3.7.5 (default, Jun  9 2020, 00:40:10) \n[GCC 7.3.1 20180712 (Red Hat 7.3.1-6)]", 
+    "sysconfig_paths": {
+      "platstdlib": "{platbase}/lib/python{py_version_short}", 
+      "platlib": "{platbase}/lib/python{py_version_short}/site-packages", 
+      "purelib": "{base}/lib/python{py_version_short}/site-packages", 
+      "stdlib": "{installed_base}/lib/python{py_version_short}", 
+      "scripts": "{base}/bin", 
+      "include": "{installed_base}/include/python{py_version_short}{abiflags}", 
+      "data": "{base}"
+    }, 
+    "base_prefix": "/usr/local", 
+    "system_stdlib_platform": "/usr/local/lib/python3.7", 
+    "_creators": null, 
+    "file_system_encoding": "utf-8", 
+    "version_info": {
+      "major": 3, 
+      "minor": 7, 
+      "micro": 5, 
+      "releaselevel": "final", 
+      "serial": 0
+    }, 
+    "sysconfig_vars": {
+      "installed_base": "/usr/local", 
+      "platbase": "/home/ec2-user/eb-virt", 
+      "py_version_short": "3.7", 
+      "base": "/home/ec2-user/eb-virt", 
+      "abiflags": "m", 
+      "PYTHONFRAMEWORK": ""
+    }, 
+    "path": [
+      "/home/ec2-user/.local/lib/python2.7/site-packages/virtualenv/discovery", 
+      "/usr/local/lib/python37.zip", 
+      "/usr/local/lib/python3.7", 
+      "/usr/local/lib/python3.7/lib-dynload", 
+      "/home/ec2-user/eb-virt/lib/python3.7/site-packages"
+    ], 
+    "max_size": 9223372036854775807, 
+    "has_venv": true, 
+    "real_prefix": null, 
+    "distutils_install": {
+      "purelib": "lib/python3.7/site-packages", 
+      "headers": "include/python3.7m/UNKNOWN", 
+      "scripts": "bin", 
+      "data": "", 
+      "platlib": "lib/python3.7/site-packages"
+    }, 
+    "architecture": 64, 
+    "original_executable": "/home/ec2-user/eb-virt/bin/python3", 
+    "os": "posix", 
+    "system_executable": null
+  }, 
+  "path": "/home/ec2-user/eb-virt/bin/python3", 
+  "st_mtime": 1591663222.932727
+}

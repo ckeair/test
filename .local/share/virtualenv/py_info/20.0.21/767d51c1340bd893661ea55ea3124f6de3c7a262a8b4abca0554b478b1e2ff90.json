@@ -1,0 +1,71 @@
+{
+  "content": {
+    "base_exec_prefix": null, 
+    "system_stdlib": "/usr/lib64/python2.7", 
+    "sysconfig": {
+      "makefile_filename": "/usr/lib64/python2.7/config/Makefile"
+    }, 
+    "prefix": "/usr", 
+    "stdout_encoding": null, 
+    "executable": "/usr/bin/python", 
+    "implementation": "CPython", 
+    "exec_prefix": "/usr", 
+    "platform": "linux2", 
+    "version": "2.7.18 (default, May 27 2020, 12:45:48) \n[GCC 7.3.1 20180712 (Red Hat 7.3.1-6)]", 
+    "sysconfig_paths": {
+      "platstdlib": "{platbase}/lib64/python{py_version_short}", 
+      "platlib": "{platbase}/lib64/python{py_version_short}/site-packages", 
+      "purelib": "{base}/lib/python{py_version_short}/site-packages", 
+      "stdlib": "{base}/lib64/python{py_version_short}", 
+      "scripts": "{base}/bin", 
+      "include": "{base}/include/python{py_version_short}", 
+      "data": "{base}"
+    }, 
+    "base_prefix": null, 
+    "system_stdlib_platform": "/usr/lib64/python2.7", 
+    "_creators": null, 
+    "file_system_encoding": "UTF-8", 
+    "version_info": {
+      "major": 2, 
+      "minor": 7, 
+      "micro": 18, 
+      "releaselevel": "final", 
+      "serial": 0
+    }, 
+    "sysconfig_vars": {
+      "base": "/usr", 
+      "platbase": "/usr", 
+      "PYTHONFRAMEWORK": "", 
+      "py_version_short": "2.7"
+    }, 
+    "path": [
+      "/home/ec2-user/.local/lib/python2.7/site-packages/virtualenv/discovery", 
+      "/usr/lib/python27.zip", 
+      "/usr/lib64/python2.7", 
+      "/usr/lib64/python2.7/plat-linux2", 
+      "/usr/lib64/python2.7/lib-tk", 
+      "/usr/lib64/python2.7/lib-old", 
+      "/usr/lib64/python2.7/lib-dynload", 
+      "/home/ec2-user/.local/lib/python2.7/site-packages", 
+      "/usr/lib64/python2.7/site-packages", 
+      "/usr/lib/python2.7/site-packages", 
+      "/usr/lib/python2.7/site-packages/pip-20.2b1-py2.7.egg"
+    ], 
+    "max_size": 9223372036854775807, 
+    "has_venv": false, 
+    "real_prefix": null, 
+    "distutils_install": {
+      "purelib": "lib/python2.7/site-packages", 
+      "headers": "include/python2.7/UNKNOWN", 
+      "scripts": "bin", 
+      "data": "", 
+      "platlib": "lib64/python2.7/site-packages"
+    }, 
+    "architecture": 64, 
+    "original_executable": "/usr/bin/python", 
+    "os": "posix", 
+    "system_executable": "/usr/bin/python"
+  }, 
+  "path": "/usr/bin/python", 
+  "st_mtime": 1590583578.0
+}
