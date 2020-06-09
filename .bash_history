@@ -196,3 +196,11 @@ sudo git init
 git status
 git add -all
 yes
+git init
+git status
+git add --all
+git commit -m "commit message"
+git log
+git@github.com:ckeair/aws831.git
+git remote add origin git@github.com:ckeair/aws831.git
+git push -u origin master
